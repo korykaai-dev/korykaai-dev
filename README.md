@@ -10,7 +10,7 @@
   <a href="http://twitter.com/korykaai">
     <img src="https://img.shields.io/twitter/follow/korykaai?color=Green&label=FOLLOW%20ME%20ON%20TWITTER&style=for-the-badge" alt="Kory Kaai's Twitter"/>
   </a>
-  <a href="https://discord.com/invite/jZQs6Wu">
+  <a href="https://korykaai.com">
     <img src="https://img.shields.io/website?down_color=grey&down_message=Oh%20no%20its%20down.&label=Portfolio&style=for-the-badge&up_color=green&url=https%3A%2F%2Fkorykaai.com" alt="Kory's Portfolio"/>
   </a>
 </p>
