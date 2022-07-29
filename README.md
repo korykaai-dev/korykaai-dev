@@ -1,7 +1,7 @@
 ![welcome-top](https://user-images.githubusercontent.com/69431357/180352301-8a6c42dc-3328-40fc-a3e8-d0360904b1c6.gif)
 
 <h1 align="left">Hi 👋, I'm Kory</h1>
-<h3 align="left">A passionate frontend developer from Texas, USA.</h3>
+<h3 align="left">A passionate Full-Stack developer from Texas, USA.</h3>
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/69431357/181859639-dfae66e1-7f99-4518-b7be-1771bd783a7d.gif" width="400px")
