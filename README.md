@@ -30,7 +30,6 @@
 <p align="left">
 <a href="https://twitter.com/korykaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="korykaai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/korykaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="korykaai" height="30" width="40" /></a>
-<a href="https://hashnode.com/@korykaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@korykaai" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kory_kaai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kory_kaai" height="30" width="40" /></a>
 </p>
 
